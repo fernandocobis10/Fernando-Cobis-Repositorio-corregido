@@ -1,0 +1,17 @@
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\bin\Debug\net8.0-windows\Biblioteca Fernando Cobis.exe
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\bin\Debug\net8.0-windows\Biblioteca Fernando Cobis.deps.json
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\bin\Debug\net8.0-windows\Biblioteca Fernando Cobis.runtimeconfig.json
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\bin\Debug\net8.0-windows\Biblioteca Fernando Cobis.dll
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\bin\Debug\net8.0-windows\Biblioteca Fernando Cobis.pdb
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca_Fernando_Cobis.Form1.resources
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.AssemblyInfo.vb
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.dll
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\refint\Biblioteca Fernando Cobis.dll
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.pdb
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca Fernando Cobis.genruntimeconfig.cache
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\ref\Biblioteca Fernando Cobis.dll
+C:\Users\ferna\source\repos\Biblioteca Fernando Cobis\obj\Debug\net8.0-windows\Biblioteca_Fernando_Cobis.Resources.resources
