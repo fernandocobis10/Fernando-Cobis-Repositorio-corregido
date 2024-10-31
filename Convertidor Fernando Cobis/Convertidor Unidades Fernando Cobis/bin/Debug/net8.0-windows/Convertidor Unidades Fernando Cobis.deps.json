@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Convertidor Unidades Fernando Cobis/1.0.0": {
+        "runtime": {
+          "Convertidor Unidades Fernando Cobis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convertidor Unidades Fernando Cobis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\bin\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.exe
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\bin\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.deps.json
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\bin\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.runtimeconfig.json
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\bin\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.dll
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\bin\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.pdb
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor_Unidades_Fernando_Cobis.Form1.resources
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor_Unidades_Fernando_Cobis.Resources.resources
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.AssemblyInfo.vb
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.dll
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\refint\Convertidor Unidades Fernando Cobis.dll
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.pdb
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\Convertidor Unidades Fernando Cobis.genruntimeconfig.cache
+C:\Users\ferna\source\repos\Convertidor Unidades Fernando Cobis\obj\Debug\net8.0-windows\ref\Convertidor Unidades Fernando Cobis.dll
